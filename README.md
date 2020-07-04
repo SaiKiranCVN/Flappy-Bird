@@ -1,3 +1,3 @@
-# flappy-bird-assets
+# Flappy-Bird
 
-Assets to develop the Flappy Bird Game
+This is the game, before I implement AI. 
